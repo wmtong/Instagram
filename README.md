@@ -1,21 +1,24 @@
 # Lab 1 - Instagram App
 
-Time spent: 3 hours spent in total
+Time spent: 4 hours spent in total
+
+This app was developed to explore different iOS capabilities and to further our experience.
 
 ## User Stories
 
-The following **required** functionality is complete:
-- [X] User can view a list of pictures currently shown on Instagram.
-
-The following **optional** functionality is complete:
+The app includes the following functionality:
+- [X] User can view a photo feed from the Instagram API.
 - [X] Each picture has a header with username and profile picture.
-- [X] App has an icon.
+- [X] User can see a detail view for each picture.
+- [X] Detail image segues to zoomable view.
+- [X] User can pull to refresh.
+- [X] App has infinite scrolling, and shows loading icon.
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/y0ZESH4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/U3YS9HQ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
